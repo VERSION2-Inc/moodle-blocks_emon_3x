@@ -46,21 +46,7 @@ Refer to the PDF manual displayed inside the block for details.
 
 対象moodleバージョン Targeted Moodle versions
 ------
-Moodle 2.3, Moodle 2.4
-
-GitHub上のブランチ Branches
-------
-* mdl_2.3 -> Moodle2.3用ブランチ
-* mdl_2.4 -> Moodle2.4用ブランチ
-* master -> Moodle2.5用ブランチ(開発中)
-
-一度git cloneでリポジトリをクローンし、git checkout mdl_2.3(ブランチ名) で切り替えて下さい。
-
-* mdl_2.3 -> Moodle2.3 branch 
-* mdl_2.4 -> Moodle2.4 branch
-* master -> Moodle2.5 branch (under development)
-
-First clone the repository with "git clone", then "git checkout mdl_2.3(branch name)" to switch branches.
+Moodle 3.x
 
 注意事項 Warning
 ------
